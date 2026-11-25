@@ -1,6 +1,6 @@
 # Projects Roadmap
 
-Project | Roadmap Plan | Validation `nadoho` | Validation `spacotto` 
+Project | Roadmap Plan | `na` | `sp` 
 :--- | :--- | :--- | :---
 **swifty-companion**         | `14/09/26` - `18/09/26` | ⚫ | ⚪ |
 **swifty-proteins**          | `21/09/26` - `25/09/26` | ⚫ | ⚫ | 
