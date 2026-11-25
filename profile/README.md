@@ -8,7 +8,7 @@ Project | Roadmap Plan | Validation `nadoho` | Validation `spacotto`
 **darkly** | `02/11/26` - `06/11/26` | WIP | WIP | 
 **hypertube** | `23/11/26` - `27/11/26` | WIP | WIP | 
 **Tokenizer** | `14/12/26` - `18/12/26` | WIP | WIP | 
-**TokenizeArt** or **matcha** | `04/01/27` - `08/01/27` | WIP | WIP | 
+**TokenizeArt** or **matcha** | `04/01/27` - `08/01/27` | `16/10/26` | WIP | 
 **???** | `25/01/27` - `29/01/27` | WIP | WIP | 
 **???** | `15/02/27` - `19/02/27` | WIP | WIP | 
 **???** | `08/03/27` - `12/03/27` | WIP | WIP | 
