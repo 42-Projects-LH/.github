@@ -4,7 +4,7 @@ Project | Roadmap Plan | Validation `nadoho` | Validation `spacotto`
 :--- | :--- | :--- | :---
 **swifty-companion** | `14/09/26` - `18/09/26` | WIP | `23/09/26` 
 **swifty-proteins** | `21/09/26` - `25/09/26` | WIP | WIP | 
-**red-tetris** | `12/10/26` - `16/10/26` | WIP | WIP |
+**red-tetris** | `12/10/26` - `16/10/26` | `06/11/26` | `06/11/26` |
 **darkly** | `02/11/26` - `06/11/26` | WIP | WIP | 
 **hypertube** | `23/11/26` - `27/11/26` | WIP | WIP | 
 **Tokenizer** | `14/12/26` - `18/12/26` | WIP | WIP | 
